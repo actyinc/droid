@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#4CAF50</color>
+    <color name="ColorPrimaryDark">#388E3C</color>
+    <color name="LightPrimaryColor">#C8E6C9</color>
+    <color name="AccentColor">#03A9F4</color>
+    <color name="primary_pressed">#B6B6B6</color>
+    <color name="ripple">#03F9A3</color>
+</resources>
